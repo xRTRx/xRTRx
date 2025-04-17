@@ -1,6 +1,4 @@
-# Hi, I'm Artur! 👋
-
-Welcome to my GitHub profile! 🚀
+# Welcome to my GitHub profile! 👋
 
 ## About Me
 - 👨‍💻 DevOps & Cloud Engineer focused on automation and infrastructure
